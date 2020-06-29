@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>689357154461-2889js3luon19ooqh3sm7gc8du2frcs1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.689357154461-2889js3luon19ooqh3sm7gc8du2frcs1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>689357154461-alqbsug140rp2o7gjdfn1jmuim9n5vhr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMX-09Kq37EQbX3fv--9lTC7VAzraFPH4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>689357154461</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>funoilnote.oilnote</string>
+	<key>PROJECT_ID</key>
+	<string>oilnote-1501e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oilnote-1501e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:689357154461:ios:74a521fe39b5014dc9cc74</string>
+	<key>DATABASE_URL</key>
+	<string>https://oilnote-1501e.firebaseio.com</string>
+</dict>
+</plist>

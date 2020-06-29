@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689357154461",
+    "firebase_url": "https://oilnote-1501e.firebaseio.com",
+    "project_id": "oilnote-1501e",
+    "storage_bucket": "oilnote-1501e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689357154461:android:c25e1af63cf20830c9cc74",
+        "android_client_info": {
+          "package_name": "fun_.oilnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689357154461-alqbsug140rp2o7gjdfn1jmuim9n5vhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fun_.oilnote",
+            "certificate_hash": "06c6f9af605840e974c516153a122faad4fcc698"
+          }
+        },
+        {
+          "client_id": "689357154461-4gqfhrie4vubfe6vpa43tv3o7j0qteu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyWOfWQG4HbvVkLsgktmgfxcBsu7TMlg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689357154461-4gqfhrie4vubfe6vpa43tv3o7j0qteu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "689357154461-kf3nmoeeh81l6oabsdm1o3u685g8vuut.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fun.oilnote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
